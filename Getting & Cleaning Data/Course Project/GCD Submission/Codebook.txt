@@ -1,0 +1,162 @@
+DATA DICTIONARY - Human Activity Recognition Using Smartphones Dataset
+
+
+SUBJECT 		1 
+
+Identifier for subject. The experiment was carried out on 30 subjects hence this is in the range 1-30. 
+
+ACTIVITY		2
+
+Descriptive name of the activity in:
+	WALKING
+	WALKING_UPSTAIRS
+	WALKING_DOWNSTAIRS
+	SITTING
+	STANDING
+	LAYING
+
+## There are 64 parameters observed below.
+
+tBodyAcc-X-Mean_1	3
+Body acceleration mean along the x dimension
+
+
+tBodyAcc-Y-Mean_2	4
+Body acceleration mean along the y dimension
+
+tBodyAcc-Z-Mean_3	5
+Body acceleration mean along the z dimension
+
+tBodyAcc-X-SD_4		6
+Body acceleration std dev along the x dimension
+
+tBodyAcc-Y-SD_5		7
+Body acceleration std dev along the y dimension
+
+tBodyAcc-Z-SD_6		8
+Body acceleration std dev along the z dimension
+
+tGravityAcc-X-Mean_41	9
+Gravity acceleration mean along the x dimension
+
+tGravityAcc-Y-Mean_42	10
+Gravity acceleration mean along the y dimension
+
+tGravityAcc-Z-Mean_43	11
+Gravity acceleration mean along the z dimension
+
+tGravityAcc-X-SD_44	12
+Gravity acceleration std dev along the x dimension
+
+tGravityAcc-Y-SD_45	13
+Gravity acceleration std dev along the y dimension
+
+tGravityAcc-Z-SD_46	14
+Gravity acceleration std dev along the z dimension
+
+tBodyAccJerk-X-Mean_81	15
+Body acceleration jerk mean along the x dimension
+
+tBodyAccJerk-Y-Mean_82	16
+Body acceleration jerk mean along the y dimension
+
+tBodyAccJerk-Z-Mean_83	17
+Body acceleration jerk mean along the Z dimension
+
+tBodyAccJerk-X-SD_84	18
+Body acceleration jerk std dev along the x dimension
+
+tBodyAccJerk-Y-SD_85	19
+Body acceleration jerk mean along the y dimension
+
+tBodyAccJerk-Z-SD_86	20
+Body acceleration jerk mean along the z dimension
+
+tBodyGyro-X-Mean_121	21
+Body gyro mean along the x dimension
+
+tBodyGyro-Y-Mean_122	22
+Body gyro mean along the y dimension
+
+tBodyGyro-Z-Mean_123	23
+Body gyro mean along the z dimension
+
+tBodyGyro-X-SD_124	24
+Body gyro std dev along the x dimension
+
+tBodyGyro-Y-SD_125	25
+Body gyro std dev along the y dimension
+
+tBodyGyro-Z-SD_126	26
+Body gyro std dev along the z dimension
+
+tBodyGyroJerk-X-Mean_161	27
+Body gyro jerk mean along the x dimension
+
+tBodyGyroJerk-Y-Mean_162	28
+Body gyro jerk mean along the y dimension
+
+tBodyGyroJerk-Z-Mean_163	29
+Body gyro jerk mean along the z dimension
+
+tBodyGyroJerk-X-SD_164		30
+Body gyro jerk std dev along the x dimension
+
+tBodyGyroJerk-Y-SD_165		31
+Body gyro jerk std dev along the y dimension
+
+tBodyGyroJerk-Z-SD_166		32
+Body gyro jerk std dev along the z dimension
+
+tBodyAccMag-Mean_201		33
+
+
+tBodyAccMag-SD_202		34
+
+tGravityAccMag-Mean_214		35
+tGravityAccMag-SD_215		36
+
+tBodyAccJerkMag-Mean_227	37
+tBodyAccJerkMag-SD_228		38
+
+tBodyGyroMag-Mean_240		39
+tBodyGyroMag-SD_241		40
+
+tBodyGyroJerkMag-Mean_253	41
+tBodyGyroJerkMag-SD_254		42
+
+
+fBodyAcc-X-Mean_266		43
+fBodyAcc-Y-Mean_267		44
+fBodyAcc-Z-Mean_268		45
+fBodyAcc-X-SD_269		46
+fBodyAcc-Y-SD_270
+fBodyAcc-Z-SD_271
+
+
+fBodyAccJerk-X-Mean_345		47
+fBodyAccJerk-Y-Mean_346		48
+fBodyAccJerk-Z-Mean_347		49
+fBodyAccJerk-X-SD_348		50
+fBodyAccJerk-Y-SD_349		51
+fBodyAccJerk-Z-SD_350		52
+
+
+fBodyGyro-X-Mean_424		53
+fBodyGyro-Y-Mean_425		54
+fBodyGyro-Z-Mean_426		55
+fBodyGyro-X-SD_427		56
+fBodyGyro-Y-SD_428		57
+fBodyGyro-Z-SD_429		58
+
+fBodyAccMag-Mean_503		59
+fBodyAccMag-SD_504		60
+
+fBodyAccJerkMag-Mean_516	61
+fBodyAccJerkMag-SD_517		62
+
+fBodyGyroMag-Mean_529		63
+fBodyGyroMag-SD_530		64
+
+fBodyGyroJerkMag-Mean_542	65
+fBodyGyroJerkMag-SD_543		66
